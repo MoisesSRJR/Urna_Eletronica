@@ -1,1 +1,1 @@
-Projeto de estudo Urna Eletrônica
+Projeto de simulação de uma Urna Eletrônica.
