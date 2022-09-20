@@ -1,4 +1,4 @@
-#botoes{
+#buttons{
     width: 260px;
     height: 300px;
     background-color: var(--fundo-botoes);
@@ -106,7 +106,7 @@
 
 /* ===================================== */
 
-.btnAcao{
+.btnAction{
     width: 75px;
     height: 35px;
     cursor: pointer;
@@ -126,14 +126,14 @@
     border-bottom:none;
 }
 
-#btnBranco{
+#btnWhite{
     background-color: var(--branco);
 }
 
-#btnCorrige{
+#btnReplace{
     background-color: #FC8102;
 }
 
-#btnConfirma{
+#btnConfirm{
     background-color: #60BC4F;
 }

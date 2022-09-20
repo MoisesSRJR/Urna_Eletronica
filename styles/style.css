@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap');
 
-@import url(styleBotoes.css);
-@import url(styleVisor.css);
+@import url(styleButtons.css);
+@import url(styleView.css);
 
 *{
     margin: 0;
@@ -22,7 +22,7 @@
 body{
     width: 100vw;
     min-height: 100vh;
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(50, 80, 112);
 }
 
 #container{
@@ -35,7 +35,7 @@ body{
     position: relative;
 }
 
-#urnaContainer{
+#urnContainer{
     width: 670px;
     height: 350px;
     background-color: var(--fundo);
@@ -58,6 +58,7 @@ footer{
     gap: 10px;
     font-family: var(--font);
     font-weight: bold;
+    cursor: pointer;
 }
 
 footer img{

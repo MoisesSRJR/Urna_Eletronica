@@ -1,4 +1,4 @@
-#visor{
+#view{
     width: 350px;
     height: 300px;
     background-color: var(--branco);
@@ -12,12 +12,12 @@
     position: relative;
 }
 
-#candidato{
+#candidate{
     display: flex;
     justify-content: space-between;
 }
 
-#dadosCandidato{
+#dataCandidate{
 /*     border: solid 1px black; */
     display: flex;
     flex-direction: column;
@@ -25,7 +25,7 @@
     ;
 }
 
-#numero{
+#number{
 /*     border: solid 1px black; */
     display: flex;
     align-items: center;
@@ -44,7 +44,7 @@
 
 /* ================================= */
 
-#fotoPresidente{
+#imgPresident{
     width: 80px;
     height: 100px;
     border: solid 1px rgb(151, 151, 151);
@@ -55,7 +55,7 @@
     position: relative;
 }
 
-#legenda{
+#legend{
     width: 100%;
     background-color: white;
     font-size: 10px;
@@ -71,7 +71,7 @@
 
 /* ================================= */
 
-#instrucoes{
+#instruction{
     border-top: solid 1px black;
     font-size: 12px;
     padding: 5px;
@@ -79,7 +79,7 @@
 
 /* ================================= */
 
-#fim{
+#end{
     position: absolute;
     display: none;
     align-items: center;
